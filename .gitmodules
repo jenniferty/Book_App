@@ -1,0 +1,6 @@
+[submodule "MERN_A_to_Z"]
+	path = MERN_A_to_Z
+	url = https://github.com/jenniferty/MERN_A_to_Z
+[submodule "MERN_A_to_Z_Client"]
+	path = MERN_A_to_Z_Client
+	url = https://github.com/jenniferty/MERN_A_to_Z_Client
