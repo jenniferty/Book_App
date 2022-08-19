@@ -1,5 +1,5 @@
 {
-  "name": "mern_a_to_z",
+  "name": "book_app",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jenniferty/MERN_A_to_Z.git"
+    "url": "git+https://github.com/jenniferty/Book_App.git"
   },
   "author": "Jennifer Ty",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jenniferty/MERN_A_to_Z/issues"
+    "url": "https://github.com/jenniferty/Book_App/issues"
   },
-  "homepage": "https://github.com/jenniferty/MERN_A_to_Z#readme",
+  "homepage": "https://github.com/jenniferty/Book_App#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.0",
